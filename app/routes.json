@@ -23,6 +23,11 @@
       "hasStyle": true
     },
     {
+      "title": "Static Collection Vanilla",
+      "hash": "#static-collection-vanilla",
+      "view": "static-collection-vanilla"
+    },
+    {
       "title": "404",
       "hash": "#404",
       "view": "404",
