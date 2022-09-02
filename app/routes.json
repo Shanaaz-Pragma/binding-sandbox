@@ -28,6 +28,11 @@
       "view": "static-collection-vanilla"
     },
     {
+      "title": "Static Collection Inflation Manager",
+      "hash": "#static-collection-binding",
+      "view": "static-collection-binding"
+    },
+    {
       "title": "404",
       "hash": "#404",
       "view": "404",
