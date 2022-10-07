@@ -33,6 +33,11 @@
       "view": "static-collection-binding"
     },
     {
+      "title": "Date Toggle",
+      "hash": "#date-toggle",
+      "view": "date-toggle"
+    },
+    {
       "title": "404",
       "hash": "#404",
       "view": "404",

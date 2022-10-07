@@ -1,0 +1,21 @@
+<style>
+   /* .wrapper { display: block;}*/
+</style>
+<h2>${title}</h2>
+<span class="date-toggle-wrapper">
+    <label>${label}</label>
+    <span click.call="_toggle($event)">${date}</span>
+    <input focusOut.call="_toggle($event)" type="date" hidden="true" value.bind="date" />
+</span>
+
+<!--<date-toggle data-label="Start On" data-date="2020/02/01 15:30:45"></date-toggle>
+<date-toggle data-label="End By" data-date="2020/02/10 15:30:45"></date-toggle>-->
+
+
+<!--
+<date-toggle class="date-toggle-wrapper" data-label="Start On" data-date="2020/02/01 15:30:45">
+    <label>${label}</label>
+    <span click.call="_toggle($event)">${date}</span>
+    <input focusOut.call="_toggle($event)" type="date" hidden="true" value.bind="date" />
+-->
+</date-toggle>
